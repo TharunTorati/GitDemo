@@ -1,0 +1,19 @@
+<<<<<<< HEAD
+<?xml version="1.0" encoding="UTF-8"?>  
+<emails>  
+<email>  
+  <to>Vimal</to>  
+  <from>Sonoo</from>  
+  <heading>Hello</heading>  
+  <body>Hello brother, how are you!</body>  
+</email>  
+</emails>  
+=======
+<?xml version="1.0" encoding="ISO-8859-1"?>  
+<note>  
+  <to>Tove</to>  
+  <from>Jani</from>  
+  <heading>Reminder</heading>  
+  <body>Don't forget me this weekend!</body>  
+</note> 
+>>>>>>> GitWork
